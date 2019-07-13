@@ -19,3 +19,9 @@ Make a folder called `images` and dump the scanned images into it.
 Run `py alignimages.py` and it will scan all the images in `images/` and compare
 them with `correct.jpg`. It will make a folder named `aligned` in `images/` and
 place the aligned versions of the images there.
+
+## Examples
+
+You can see some images I was able to rotate here:
+
+https://github.com/tarwich/python-image-rotate/wiki/Examples
